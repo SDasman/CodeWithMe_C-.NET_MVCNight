@@ -1,0 +1,9 @@
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\bin\Debug\wf-poll-cwe.exe.config
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\bin\Debug\wf-poll-cwe.exe
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\bin\Debug\wf-poll-cwe.pdb
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\obj\Debug\wf-poll-cwe.csprojResolveAssemblyReference.cache
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\obj\Debug\wf_poll_cwe.Properties.Resources.resources
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\obj\Debug\wf-poll-cwe.csproj.GenerateResource.Cache
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\obj\Debug\wf-poll-cwe.csproj.CoreCompileInputs.cache
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\obj\Debug\wf-poll-cwe.exe
+C:\Users\Joel\PROJECTS\CODE\vs2017\wf-poll-cwe\wf-poll-cwe\obj\Debug\wf-poll-cwe.pdb
